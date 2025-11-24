@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Siddharth Gautam
   
--    I'm a computer scienece undergrad who is interested in full stack development and competitive programming.I've recently worked on some AI and webdev projects and am eager to learn more about these respective fields.
+-    I'm a computer scienece undergrad who is interested in future-proof crypto development,smart contracts.
   
-- 🌱Currently learning: TypeScript and React
+- 🌱Currently learning: Solidity and Hashing
   
-   I’m always eager to collaborate and hopefully make a difference!
+   I’m always eager to collaborate and hopefully make a difference.
   
 
 
